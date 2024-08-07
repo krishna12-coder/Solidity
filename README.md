@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DappFundsX Project Documentation
 
 <!-- Read the full tutorial here: **[>> How to build a Decentralized Event Marketplace with Next.js, TypeScript, Tailwind CSS, and Solidity](https://daltonic.github.io)** -->
@@ -70,6 +70,9 @@ Now, your application should be up and running.
 - 🎅 [TypeScript](https://www.typescriptlang.org/)
 - 🐻 [Solidity](https://soliditylang.org/)
 - 👀 [EthersJs](https://docs.ethers.io/v5/)
-=======
+
 # Web3
->>>>>>> origin/main
+ origin/main
+
+# Solidity
+ dccc7dafb1acab281373a0e48cae0ff71f9c60c6
